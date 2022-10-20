@@ -12,7 +12,7 @@
     "kareem": "^1.5.0",
     "lodash.get": "^4.4.2",
     "method-override": "^2.3.10",
-    "mongoose": "^4.13.5",
+    "mongoose": "^4.13.21",
     "morgan": "^1.9.0",
     "mpath": "^0.3.0",
     "mpromise": "^0.5.5",
